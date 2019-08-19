@@ -1,6 +1,6 @@
 {
   "name": "@goku-gaga/node-lts",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "bin": {
     "node-lts": "bin/node-lts"
   },
@@ -15,6 +15,11 @@
   ],
   "author": "goku-gaga",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GoKu-gaga/node-lts.git"
+  },
+  "homepage": "https://https://github.com/GoKu-gaga/node-lts#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "cli-color": "^1.4.0",
