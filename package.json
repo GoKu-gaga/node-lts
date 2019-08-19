@@ -1,0 +1,23 @@
+{
+  "name": "node-lts",
+  "version": "1.0.0",
+  "bin": {
+    "node-lts": "bin/node-ltsn"
+  },
+  "description": "CommandLine Tool for Node LTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "LTS"
+  ],
+  "author": "goku-gaga",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cli-table": "^0.3.1",
+    "compare-versions": "^3.5.1"
+  }
+}
