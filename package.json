@@ -1,8 +1,8 @@
 {
-  "name": "node-lts",
+  "name": "@goku-gaga/node-lts",
   "version": "1.0.0",
   "bin": {
-    "node-lts": "bin/node-ltsn"
+    "node-lts": "bin/node-lts"
   },
   "description": "CommandLine Tool for Node LTS",
   "main": "index.js",
